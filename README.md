@@ -1,2 +1,2 @@
 # XGBoostApp
-Baskı rengi tahmin uygulaması
+boya-renk-tahmini-demo-1
